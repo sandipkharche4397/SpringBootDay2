@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Gitday2\Git2springboot\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1776015082.index
+3098166789.index
+4062844345.index
+2239228771.index
+3000133671.index
+1878558064.index
